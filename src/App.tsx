@@ -115,7 +115,8 @@ function App() {
 
   return (
     <>
-      <h2>Hotel Data</h2>
+      <h2>Hotel Details</h2>
+      <h1>Japan Nogoya city</h1>
       <hr />
       {
         <>
