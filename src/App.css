@@ -1,4 +1,7 @@
 .card{
   width: 18rem;
   cursor: pointer;
+  margin: 10px;
+  transition: transform 0.2s;
+  
 }
